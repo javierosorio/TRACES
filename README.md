@@ -7,7 +7,7 @@
 * Clarissa Grijalva, University of Arizona
 * Wali Rahman, University of Arizona
 * Gizem Altintarla, University of Arizona
-* Patrick Brand, University of Texas Dallas
+* Patrick Brandt, University of Texas Dallas
 * Vito D'Orazio, West Virginia University
 * Latifur Khan, University of Texas Dallas
 

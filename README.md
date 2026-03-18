@@ -16,8 +16,6 @@
 
 # FUNCTIONS
 
-<br>
-
 ## Basic functionalities
 
 * Short answer questions
@@ -25,14 +23,12 @@
 * Flow based on LLM lifecycle
 * Output LaTeX code: Can be added as an appendix to a paper
 * Output Markdown file: Can be added to their repository
-vRegister users
+* Register users
 * Save progress
 * Allow multiple projects by user
 * Record usage info of the website
 * Show a preview of the output
 * Save outputs in the user profile
-
-<br>
 
 ## Advanced functionalities
 

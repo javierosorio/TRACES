@@ -43,6 +43,6 @@
 <br>
 
 # FUNDING
-This project is funded by the National Science Foundation (SF) - Office of Advanced Cyberinfrastructure (OAC) for the project "Frameworks: Infrastructure For Political And Social Event Data using Machine Learning" [award 2311142](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2311142).
+This project is funded by the National Science Foundation (SF) - Office of Advanced Cyberinfrastructure (OAC) for the project "Frameworks: Infrastructure For Political And Social Event Data using Machine Learning" ([award 2311142](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2311142){:target="_blank"}).
 
 <br>
